@@ -232,7 +232,5 @@ PRODUCT_PACKAGES += \
     sensors.ssc \
     libaudiosaplus_sec \
     libsamsungSoundbooster_plus \
-    libswdap \
-    libswspatializer \
     factory.ssc \
     vendor.samsung.hardware.thermal@1.0-service
